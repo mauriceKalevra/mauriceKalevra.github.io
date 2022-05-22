@@ -1,5 +1,11 @@
-## Welcome to webpage
-Im an edgy uber hacker and student of It-Security
+## Welcome to my webpage
+Im a broke and lazy student.
+
+```
+for nudes in range(10000):  
+    print("send nudes")
+
+```
 
 ### Support or Contact
 

@@ -2,8 +2,10 @@
 Im a broke and lazy student.
 
 ```
-for nudes in range(10000):  
-    print("send nudes")
+Python 3.7.13
+
+>>> for nudes in range(10000):  
+    	print("send nudes")
 
 ```
 
